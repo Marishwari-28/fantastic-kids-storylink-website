@@ -1,0 +1,54 @@
+*
+{
+    margin: 0;
+    padding:0;
+} 
+ body
+ {
+    background: linear-gradient(89deg,rgba(255,0,223,0.39) 0%, #00e9ff 80%);
+
+ }
+ form
+ {
+    margin-left: 250px;
+    border: 1px solid palevioletred; 
+ }
+ input[type="text"],input[type="Password"],
+ input[type="Email"],input[type="Url"],
+ input[type="number"]
+ {
+    height: 45px;
+    width: 340px;
+    background:transparent ;
+
+ }
+ select
+ {
+    height: 45px;
+    width: 340px; 
+ }
+ label
+ {
+   display: block;
+ }
+ button
+ {
+   background-color: hsla(180, 93%, 17%, 0.959);
+   color: white; 
+   padding: 10px;
+ }
+ label
+ {
+    display:block;
+ }
+ input::placeholder
+ {
+   color: palevioletred
+ }
+    
+
+
+    
+ 
+    
+ 
